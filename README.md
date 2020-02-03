@@ -1,6 +1,6 @@
 # Jwt token
-[![Build Status](https://travis-ci.org/symflex/go-jwt.svg?branch=master)](https://travis-ci.org/symflex/go-jwt)
-[![Coverage Status](https://coveralls.io/repos/github/symflex/go-jwt/badge.svg)](https://coveralls.io/github/symflex/go-jwt)
+[![Build Status](https://travis-ci.org/symflex/go-jwt-token.svg?branch=master)](https://travis-ci.org/symflex/go-jwt-token)
+[![Coverage Status](https://coveralls.io/repos/github/symflex/go-jwt-token/badge.svg?branch=master)](https://coveralls.io/github/symflex/go-jwt-token?branch=master)
 
 ```
 var header = map[string]string{"key": "value"}
