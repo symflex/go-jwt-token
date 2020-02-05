@@ -1,4 +1,4 @@
-module symflex.ru/go-jwt
+module symflex.ru/go-jwt-token
 
 go 1.13
 
