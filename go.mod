@@ -1,4 +1,4 @@
-module github.com/symflex.ru/go-jwt-token
+module github.com/symflex/go-jwt-token
 
 go 1.13
 
